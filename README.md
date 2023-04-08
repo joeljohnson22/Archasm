@@ -1,4 +1,5 @@
-# Untitled Game Wiki
+#Arachasm
+A game made from Godot Game Engine
 
 ## Website
 https://noxiouschain.github.io/
